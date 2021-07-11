@@ -1,0 +1,9 @@
+pycryptodome
+random
+pandas
+datetime
+math
+matplotlib
+statistics
+json
+
